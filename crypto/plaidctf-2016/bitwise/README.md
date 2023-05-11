@@ -1,0 +1,1 @@
+It's about modified (binary-version of) Burrows Wheeler Transform algorithm. However, I didn't know it until I saw the flag. I reversed the transform in a different way.
