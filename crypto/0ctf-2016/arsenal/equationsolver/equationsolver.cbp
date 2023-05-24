@@ -45,6 +45,8 @@
 			<Add option="-m64" />
 			<Add option="-lgomp" />
 		</Linker>
+		<Unit filename="aes.h" />
+		<Unit filename="flatmultimap.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
