@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684895478 source:c:\users\dd\desktop\0ctf2016\peoples-square-6\equationsolver\main.cpp
+	<cstdio>
+	<cstdint>
+	<cassert>
+	<cstring>
+	<ctime>
+	<array>
+	<tuple>
+	<set>
+
